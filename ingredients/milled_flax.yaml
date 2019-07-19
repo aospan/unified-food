@@ -1,0 +1,27 @@
+---
+# Unified food project
+# Ingredient spec file
+name: Stabilized Full-Fat Milled Flax
+processing: Traditional Grind Milled Flax (16 Mesh)
+url: https://www.grainmillers.com/products/fullmilledflax/
+supplier:
+  name: Grain Millers, Inc.
+  facility_address: Saskatoon, Saskatchewan, Canada
+nutrition:
+  kcalories_per100g: 458
+  total_fat_g: 42.1
+  protein_g: 18.3
+  total_carbohydrate_g: 28.9
+  total_dietary_fiber_g: 27.3
+  saturated_lipid_g: 3.7
+  monounsat_lipid_g: 7.5
+  polyunsat_lipid_g: 28.7
+  mega3_g: 22.8
+  omega6_g: 5.9
+  sodium_mg: 30
+  calcium_mg: 255
+  iron_mg: 5.7
+  potassium_mg: 813
+  phosphorus_mg: 642
+  vitamin_c_mg: 0.6
+  ash_g: 3.7
