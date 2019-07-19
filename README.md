@@ -1,5 +1,7 @@
 ### Unified food project
 
+## DISCLAIMER: use this information at your own risk
+
 - **./ingredients** - list of substances available for mixing. Widely available plants and food ingredients recommended. For example: whole oat flour;
 - **./profiles** - list of human body nutritions required to survive and thryve. For example: healthy adult (men and woman);
 
