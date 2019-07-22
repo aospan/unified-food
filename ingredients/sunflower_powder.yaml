@@ -1,0 +1,23 @@
+---
+# Unified food project
+# Ingredient spec file
+name: "Ground Sunflower"
+processing: Cold Milled Full Oil Seed Protein Powder
+url: "https://www.amazon.com/Ground-Sunflower-Seed-Meal-Bag/dp/B079WP5VRG/ref=sr_1_43"
+supplier:
+  name: Gerbs Pumpkin Seeds Co. Inc.
+  facility_address: "92 Allendale Ave, Johnston, RI 02919"
+  url: https://www.mygerbs.com
+nutrition:
+  kcalories_per100g: 571
+  total_fat_g: 50
+  protein_g: 21.4
+  total_carbohydrate_g: 21.4
+  total_dietary_fiber_g: 7.1
+  saturated_lipid_g: 3.57
+  monounsat_lipid_g: 17.85
+  polyunsat_lipid_g: 25
+  sodium_mg: 0
+  calcium_mg: 93
+  iron_mg: 5
+  potassium_mg: 671
