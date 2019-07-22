@@ -1,0 +1,11 @@
+---
+# Unified food project
+# Dietary recommendation file
+name: >
+  "How many calories are in one gram of fat, carbohydrate, or protein?"
+authority: "United States Department of Agriculture"
+url: >
+  "https://www.nal.usda.gov/fnic/how-many-calories-are-one-gram-fat-carbohydrate-or-protein"
+fat: 9
+protein: 4
+carbohydrates: 4

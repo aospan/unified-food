@@ -1,0 +1,37 @@
+---
+# Unified food project
+# Dietary recommendation file
+name: >
+  "Dietary Reference Intakes (DRIs):
+  Acceptable Macronutrient Distribution Ranges"
+source: >
+  "Institute of Medicine (US) Committee to Review
+  Dietary Reference Intakes for Vitamin D
+  and Calcium; Ross AC, Taylor CL, Yaktine AL, et al., editors."
+authority: "Institute of Medicine (US), National Academy of Sciences"
+url: >
+  "https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t5/?report=objectonly"
+adult:
+  macronutrient:
+    # Range (percent of energy)
+    fat: 20-35
+    linoleic_acid: 5-10
+    a_linolenic_acid: 0.6-1.2
+    carbohydrate: 45–65
+    protein: 10–35
+children_4_18yo:
+  macronutrient:
+    # Range (percent of energy)
+    fat: 25–35
+    linoleic_acid: 5–10
+    a_linolenic_acid: 0.6-1.2
+    carbohydrate: 45–65
+    protein: 10–30
+children_1_3yo:
+  macronutrient:
+    # Range (percent of energy)
+    fat: 30–40
+    linoleic_acid: 5–10
+    a_linolenic_acid: 0.6-1.2
+    carbohydrate: 45–65
+    protein: 5–20

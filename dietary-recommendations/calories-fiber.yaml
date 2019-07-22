@@ -1,0 +1,13 @@
+---
+# Unified food project
+# Dietary recommendation file
+name: >
+  "On Nutrition Facts food labels, the grams of dietary fiber are already
+  included in the total carbohydrate count.  But because fiber is a type of
+  carbohydrate that your body can’t digest, it does not affect your blood sugar
+  levels. You should subtract the grams of fiber from the total carbohydrate."
+authority: "Diabetes Teaching Center
+  at the University of California, San Francisco"
+url: >
+  "https://dtc.ucsf.edu/living-with-diabetes/diet-and-nutrition/understanding-carbohydrates/counting-carbohydrates/learning-to-read-labels/understanding-fiber/"
+fiber: 0

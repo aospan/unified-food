@@ -1,0 +1,20 @@
+---
+# Unified food project
+# Dietary recommendation file
+name: >
+  " 1.5 g/kg/day for infants, 1.1 g/kg/day for 1-3 y, 0.95 g/kg/day for 4-13 y,
+  0.85 g/kg/day for 14-18 y, 0.8 g /kg/day for adults, and 1.1 g/kg/day for
+  pregnant (using prepregnancy weight) and lactating women."
+authority: >
+  "Dietary Reference Intakes for Energy, Carbohydrate. Fiber, Fat, Fatty Acids,
+  Cholesterol, Protein, and Amino Acids (2002/2005)"
+url: >
+  "http://www.nationalacademies.org/hmd/~/media/Files/Agendas/Activity%20Files/Nutrition/DRI-Tables/8_Macronutrient%20Summary.pdf"
+protein_g_per_kg_body_weight:
+  infants: 1.5
+  childer_1_3yo: 1.1
+  childer_4_13yo: 0.95
+  childer_14_18yo: 0.85
+  adults: 0.8
+  pregnant: 1.1
+  lactating: 1.1
