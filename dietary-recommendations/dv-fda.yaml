@@ -1,0 +1,61 @@
+---
+# Unified food project
+# Dietary recommendation file
+name: >
+  "Daily Reference Values (DRVs) Based on the reference caloric intake of 2,000
+  calories for adults and children aged 4 years and older, and for pregnant
+  women and lactating women 2Based on the reference caloric intake of 1,000
+  calories for children 1 through 3 years of age."
+authority: >
+  "The Food and Drug Administration is a federal agency of the United States
+  Department of Health and Human Services"
+url: >
+  "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=101.9"
+fat:
+  unit: g
+  adult: 78
+  infant_12mo: 30
+  children_1_3yo: 39
+  pregnant_lactating_women: 78
+saturated_fat:
+  unit: g
+  adult: 20
+  infant_12mo: na
+  children_1_3yo: 10
+  pregnant_lactating_women: 20
+cholesterol:
+  unit: mg
+  adult: 300
+  infant_12mo: na
+  children_1_3yo: 300
+  pregnant_lactating_women: 300
+total_carbohydrate:
+  unit: g
+  adult: 275
+  infant_12mo: 95
+  children_1_3yo: 150
+  pregnant_lactating_women: 275
+sodium:
+  unit: mg
+  adult: 2300
+  infant_12mo: na
+  children_1_3yo: 1500
+  pregnant_lactating_women: 2300
+dietary_fiber:
+  unit: g
+  adult: 28
+  infant_12mo: na
+  children_1_3yo: 14
+  pregnant_lactating_women: 28
+protein:
+  unit: g
+  adult: 50
+  infant_12mo: na
+  children_1_3yo: 13
+  pregnant_lactating_women: na
+added_sugars:
+  unit: g
+  adult: 50
+  infant_12mo: na
+  children_1_3yo: 25
+  pregnant_lactating_women: 50
