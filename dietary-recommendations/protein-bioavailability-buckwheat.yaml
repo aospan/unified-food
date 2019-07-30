@@ -1,0 +1,9 @@
+--
+# Unified food project
+# Dietary recommendation file
+name: >
+  "The protein quality was very high, with biological values above 90%. This can be explained by a high concentration of most essential amino acids"
+authority: "Springer Nature"
+url: >
+  "https://link.springer.com/article/10.1007%2FBF01094020"
+buckwheat: 0.9
